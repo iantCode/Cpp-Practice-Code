@@ -13,6 +13,8 @@ int main()
     std::cout << add(1, 2) <<std::endl;
     std::cout << subtract(2, 1) <<std::endl;
     std::cout << multiply(2, 3) <<std::endl;
+
+    return 0;
 }
 
 int subtract(int a, int b)
