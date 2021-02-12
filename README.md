@@ -4,7 +4,7 @@
 현재 제 코드의 기초가 되는 강의인 [홍정모의 따라하며 배우는 C++](https://www.inflearn.com/course/following-c-plus)는 다음 링크에서 수강이 가능합니다.
 
 ## 현재 학습중인 곳
-2.2 정수형 (Integers)
+2.4 무치형 (보이드, void)
 
 ## 현재 코드 연습이 끝난 강의들
 - [X] 1강
